@@ -1,6 +1,6 @@
 # checksum-tool
 
-## Build
+## Usage
 ```bash
 git clone PROJECT
 cd PROJECT/
